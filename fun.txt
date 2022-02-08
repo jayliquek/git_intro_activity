@@ -1,13 +1,17 @@
 When my boss asked me who is the stupid one, me or him? I told him everyone knows he doesn't hire stupid people.
 
+<<<<<<< HEAD
 Rating: 1
+=======
+Rating: 13
+>>>>>>> 4ae6b66b45f24477e6e58656dcab07799b4b2a2a
 
 ---
 
 Q.  Doctor, how many autopsies have you peformed on dead people?
 A.  All my autopsies have been performed on dead people.a
 
-Rating: 3
+Rating: 33
 
 ---
 
