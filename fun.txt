@@ -1,10 +1,6 @@
 When my boss asked me who is the stupid one, me or him? I told him everyone knows he doesn't hire stupid people.
 
-<<<<<<< HEAD
 Rating: 1
-=======
-Rating: 13
->>>>>>> 4ae6b66b45f24477e6e58656dcab07799b4b2a2a
 
 ---
 
